@@ -5,7 +5,8 @@ package.domain = org.allface
 source.dir = .
 source.include_exts = py,png,jpg,kv,atlas,csv
 version = 1.0
-requirements = python3,kivy==2.3.0,p4a==2024.01.21
+requirements = python3, kivy==2.3.0, cython==0.29.36
+
 
 
 orientation = portrait
