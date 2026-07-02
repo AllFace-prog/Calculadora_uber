@@ -32,3 +32,4 @@ jobs:
       with:
         name: Seu-Aplicativo-APK
         path: bin/*.apk
+        
